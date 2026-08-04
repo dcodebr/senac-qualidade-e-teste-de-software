@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Senac.TQS.Calculadora.Test/Senac.TQS.Calculadora.Test.csproj" />
+  <Project Path="Senac.TQS.Calculadora/Senac.TQS.Calculadora.csproj" />
+</Solution>
