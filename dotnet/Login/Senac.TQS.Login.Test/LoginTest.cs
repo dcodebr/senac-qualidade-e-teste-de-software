@@ -15,7 +15,7 @@ public class Tests
             driver.Manage().Window.Maximize();
 
             // Altere o caminho conforme a localização do seu index.html
-            driver.Navigate().GoToUrl(@"file:///C:/selenium/login/index.html");
+            driver.Navigate().GoToUrl(@"file:///C:/selenium/index.html");
       }
 
       [Test]
